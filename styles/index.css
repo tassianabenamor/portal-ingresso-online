@@ -200,3 +200,19 @@ img:hover {
     border-radius: 20px;
     font-size: 18px;
 }
+
+/* footer */
+.caixa-footer {
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+    padding-top: 100px;
+}
+
+.caixa-footer h2 {
+    font-weight: bold;
+    padding-bottom: 25px;
+}
