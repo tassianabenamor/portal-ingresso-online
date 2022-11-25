@@ -14,4 +14,4 @@ Para acessar o projeto no Figma, clique no botão abaixo:
 
 <hr>
 
-*Desenvolvido por Tassiana Benamor e Mateus Dias*
+*Desenvolvido por Tassiana Benamor e Matheus Cara*
