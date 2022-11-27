@@ -22,6 +22,9 @@ Para acessar o projeto no Lucidchart, clique no botão abaixo:
 ## Prototipação
 A tela foi desenvolvida utilizando o software Figma.
 
+![Desktop](https://user-images.githubusercontent.com/87051404/204153083-f4d7ea99-edb8-48c7-ab6f-9e7dd77b70b0.png)
+
+
 Para acessar o projeto no Figma, clique no botão abaixo:
 
 <a href="https://www.figma.com/proto/v03E0Lsl7hmug0PH9jkJ6x/Ingresso-%7C-P%C3%A1gina-Principal-(Copy)?node-id=3%3A16&scaling=min-zoom&page-id=0%3A1" target="_blank">
@@ -37,9 +40,6 @@ As linguagens utulizadas foram:
 - CSS3
 
 *Nenhum framework foi utilizado.*
-
-## Imagens do site
-![image](https://user-images.githubusercontent.com/87051404/203877570-91ca9277-93a5-44ed-857d-19d02b3a562a.png)
 
 <hr>
 
