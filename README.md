@@ -27,7 +27,7 @@ A tela foi desenvolvida utilizando o software Figma.
 ![Desktop](https://user-images.githubusercontent.com/87051404/204153083-f4d7ea99-edb8-48c7-ab6f-9e7dd77b70b0.png)
 
 
-**Sugestão de telas para dispositivos mobile**
+**Sugestão de telas para dispositivos móveis**
 
 ![mobile](https://user-images.githubusercontent.com/87051404/204153485-0884ed77-9c6b-42e1-8180-1716f3466d30.png)
 
